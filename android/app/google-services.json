@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264574735226",
+    "project_id": "grass365-434418",
+    "storage_bucket": "grass365-434418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264574735226:android:ca9ee9924267f41687fcc3",
+        "android_client_info": {
+          "package_name": "com.grass365.grass365"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNAxbrPElix5-RxC-yy1e5QMVKLhauRxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264574735226:android:9c99719ad4203d0b87fcc3",
+        "android_client_info": {
+          "package_name": "com.mycompany.grass365"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNAxbrPElix5-RxC-yy1e5QMVKLhauRxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
